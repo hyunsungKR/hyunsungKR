@@ -1,31 +1,28 @@
-### Hi 👋 i`m Hyunsung Wang
-<a href="https://github.com/hyunsungKR/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://hyunsungstory.tistory.com/"><img src="https://img.shields.io/badge/Tistory-466BB0?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<h1 align="center">Hi 👋, I'm Hyunsung Wang</h1>
+<h3 align="center">An Ambitious Developer who's keen on Computer Science, Machine Learning, Deep Learning & Data Science</h3>
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" /><br>
+  <!--<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="800" height="400">-->
+</a>
+</p>
 
-## Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> [![java Badge](https://img.shields.io/badge/-java-orange?style=flat)](https://www.oracle.com/java/technologies/downloads/)<br/>
+- 🔭 I’m currently improving myself in **Data Science, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning and Computer Vision**
+- 📫 How to reach me: **a01090693658@gmail.com**
 
-## Framework
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white"/>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
-## Library
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-
-## IDE
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-
-
-## AWS
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=white"/>   <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
-
-
-
-
-
-
-## <img src="https://github-readme-stats.vercel.app/api?username=hyunsungKR&show_icons=true">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="45" height="45"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
